@@ -1,2 +1,2 @@
-# VISITA_Dataset
-Visual and Infrared fusion TA Dataset
+# VISTA_Dataset
+***V***isual and ***I***nfrared fu***S***ion ***TA*** Dataset
