@@ -1,8 +1,16 @@
 # ***V***isual and ***I***nfrared fu***S***ion quali***T***y ***A***ssessment Dataset (VISTA) 
 
-[[EN]](README.md)
+</div>
 
-[[CN]](README_CN.md)
+<!--中/英 文档切换-->
+
+<div align="center">
+
+[[简体中文]](README_CN.md) 👈 | [English]
+
+</div>
+
+README_CN.md)
 
 ## Introduce
 
@@ -30,7 +38,7 @@ Detailed customization information will be released in the future.
 
 ## Changelog
 
-Detailed update information will be released in the future.
+**2022/8/10** Public dataset address, and upload demo.
 
 ## Thanks
 
