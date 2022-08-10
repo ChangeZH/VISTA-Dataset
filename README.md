@@ -3,9 +3,7 @@
 </div>
 
 <div align="center">
-
-[[简体中文]](README_CN.md) 👈 || [English]
-
+[[简体中文]](README_CN.md) 🉑 || 🆖 [English]
 
 </div>
 
@@ -13,7 +11,7 @@
 
 Detailed dataset information will be released in the future.
 
-## 📌 Demo
+## 🔥 Demo
 
 The following image is a demo of VISTA dataset. The detailed dataset will be released in the future.
 
@@ -37,7 +35,7 @@ Detailed customization information will be released in the future.
 
 **2022/8/10** Public dataset address, and upload demo.
 
-## 🔥 Thanks
+## 🌸 Thanks
 
 The dataset was carefully marked by the students of the research group of Professor Yang Shuyuan from the Key Laboratory of Intelligent Perception and Image Understanding, Ministry of Education
 of the College of artificial intelligence, Xidian University.
@@ -47,7 +45,7 @@ of the College of artificial intelligence, Xidian University.
 <div align="center">
 
 
-👩‍🏫 [[Professor Homepage]](https://www.xidian.edu.cn/info/1020/3100.htm) || 🏫 [[Lab Home]](https://ipiu.xidian.edu.cn/)
+[[Professor Homepage]](https://www.xidian.edu.cn/info/1020/3100.htm) 👩‍🏫 || 🏫 [[Lab Home]](https://ipiu.xidian.edu.cn/)
 
 </div>
 
@@ -55,12 +53,12 @@ of the College of artificial intelligence, Xidian University.
 
 📍 Zhihao Chang @ [[ChangeZH]](https://github.com/ChangeZH) | 📍 Quanwei Gao @ [[HomePage]]() | 📍 Hongze Pei @ [[HomePage]]() | 📍 Shurong Ren @ [[HomePage]]() | 📍 Shilin Tong @ [[HomePage]]() | 📍 Qiang Wu @ [[HomePage]]() | 📍 Chenghong Xiao @ [[HomePage]]() | 📍 Qi Xue @ [[HomePage]]() | 📍 Zhenlong Yin @ [[HomePage]]() | 📍 Mengyao Zhan @ [[HomePage]]() | 📍 Haoran Zhang @ [[HomePage]]() 
 
-## Feedback
+## 📞 Feedback
 
 </div>
 
 <div align="center">
 
-⚡ [[E-mail @ 403627774@qq.com]](403627774@qq.com) ⚡
+⚡ [[E-mail 📮 403627774@qq.com]](403627774@qq.com) ⚡
 
 </div>

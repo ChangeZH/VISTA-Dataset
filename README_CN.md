@@ -7,8 +7,7 @@
 <!--中/英 文档切换-->
 
 <div align="center">
-
-[简体中文] || 👉 [[English]](README.md)
+[简体中文] 🉑 || 🆖 [[English]](README.md)
 
 </div>
 
@@ -18,7 +17,7 @@
 
 详细的数据集信息将在未来发布。
 
-## 📌 展示
+## 🔥 展示
 
 下图是 VISTA 数据集的部分展示。 详细的数据集将在未来发布。
 
@@ -42,7 +41,7 @@
 
 **2022/8/10** 公开数据集地址，并上传示例图片。
 
-## 🔥 致谢
+## 🌸 致谢
 
 VISTA数据集由西安电子科技大学人工智能学院智能感知与图像理解教育部重点实验室杨淑媛教授课题组学生认真、耐心评估。
 
@@ -51,7 +50,7 @@ VISTA数据集由西安电子科技大学人工智能学院智能感知与图像
 <div align="center">
 
 
-👩‍🏫 [[教授主页]](https://www.xidian.edu.cn/info/1020/3100.htm) || 🏫 [[实验室主页]](https://ipiu.xidian.edu.cn/)
+[[教授主页]](https://www.xidian.edu.cn/info/1020/3100.htm) 👩‍🏫 || 🏫 [[实验室主页]](https://ipiu.xidian.edu.cn/)
 
 </div>
 
