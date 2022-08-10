@@ -2,22 +2,16 @@
 
 </div>
 
-<!--中/英 文档切换-->
-
 <div align="center">
-
-[[简体中文]](README_CN.md) 👈 | [English]
-
+[[简体中文]](README_CN.md) 👈 || [English]
 
 </div>
 
-
-
-## Introduce
+## 📝Introduce
 
 Detailed dataset information will be released in the future.
 
-## Demo
+## 📌 Demo
 
 The following image is a demo of VISTA dataset. The detailed dataset will be released in the future.
 
@@ -29,19 +23,42 @@ The following image is a demo of VISTA dataset. The detailed dataset will be rel
 | ![](demo/Vis/soldier_behind_smoke_2.jpg) | ![](demo/Inf/soldier_behind_smoke_2.jpg) | ![](demo/CBF/soldier_behind_smoke_2.jpg) | ![](demo/GTF/soldier_behind_smoke_2.jpg) | ![](demo/NestFuse/soldier_behind_smoke_2.jpg) | ![](demo/CNN/soldier_behind_smoke_2.jpg) | ![](demo/MDLATLRR/soldier_behind_smoke_2.jpg) |
 |                 Visible                  |                 Infrared                 |                  0.3184                  |                  0.6086                  |                    0.2135                     |                  0.1481                  |                    0.8330                     |
 
-## Evalute
+## 🧰 Evalute
 
 Detailed assessment information will be released in the future.
 
-## Custom Dataset
+## ✍ Custom Dataset
 
 Detailed customization information will be released in the future.
 
-## Changelog
+## 🔧 Changelog
 
 **2022/8/10** Public dataset address, and upload demo.
 
-## Thanks
+## 🔥 Thanks
 
 The dataset was carefully marked by the students of the research group of Professor Yang Shuyuan from the Key Laboratory of Intelligent Perception and Image Understanding, Ministry of Education
 of the College of artificial intelligence, Xidian University.
+
+</div>
+
+<div align="center">
+
+
+👩‍🏫 [[Professor Homepage]](https://www.xidian.edu.cn/info/1020/3100.htm) || 🏫 [[Lab Home]](https://ipiu.xidian.edu.cn/)
+
+</div>
+
+*!The following ranks are in no particular order!*
+
+📍 Zhihao Chang @ [[ChangeZH]](https://github.com/ChangeZH) | 📍 Quanwei Gao @ [[HomePage]]() | 📍 Hongze Pei @ [[HomePage]]() | 📍 Shurong Ren @ [[HomePage]]() | 📍 Shilin Tong @ [[HomePage]]() | 📍 Qiang Wu @ [[HomePage]]() | 📍 Chenghong Xiao @ [[HomePage]]() | 📍 Qi Xue @ [[HomePage]]() | 📍 Zhenlong Yin @ [[HomePage]]() | 📍 Mengyao Zhan @ [[HomePage]]() | 📍 Haoran Zhang @ [[HomePage]]() 
+
+## Feedback
+
+</div>
+
+<div align="center">
+
+⚡ [[E-mail]](403627774@qq.com) ⚡
+
+</div>
