@@ -61,6 +61,6 @@ of the College of artificial intelligence, Xidian University.
 
 <div align="center">
 
-⚡ [[E-mail]](403627774@qq.com) ⚡
+⚡ [[E-mail @ 403627774@qq.com]](403627774@qq.com) ⚡
 
 </div>
