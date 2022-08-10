@@ -1,10 +1,14 @@
-# ***V***isual and ***I***nfrared fu***S***ion quali***T***y ***A***ssessment (VISTA) Dataset
+# ***V***isual and ***I***nfrared fu***S***ion quali***T***y ***A***ssessment Dataset (VISTA) 
 
 [[EN]](README.md)
 
 [[CN]](README_CN.md)
 
-## DEMO
+## Introduce
+
+Detailed dataset information will be released in the future.
+
+## Demo
 
 The following image is a demo of VISTA dataset. The detailed dataset will be released in the future.
 
@@ -16,11 +20,19 @@ The following image is a demo of VISTA dataset. The detailed dataset will be rel
 | ![](demo/Vis/soldier_behind_smoke_2.jpg) | ![](demo/Inf/soldier_behind_smoke_2.jpg) | ![](demo/CBF/soldier_behind_smoke_2.jpg) | ![](demo/GTF/soldier_behind_smoke_2.jpg) | ![](demo/NestFuse/soldier_behind_smoke_2.jpg) | ![](demo/CNN/soldier_behind_smoke_2.jpg) | ![](demo/MDLATLRR/soldier_behind_smoke_2.jpg) |
 |                 Visible                  |                 Infrared                 |                  0.3184                  |                  0.6086                  |                    0.2135                     |                  0.1481                  |                    0.8330                     |
 
+## Evalute
 
+Detailed assessment information will be released in the future.
 
+## Custom Dataset
 
+Detailed customization information will be released in the future.
 
-## THANKS
+## Changelog
 
-The dataset was carefully marked by the students of the research group of the Key Laboratory of Intelligent Perception and Image Understanding of Ministry of Education
+Detailed update information will be released in the future.
+
+## Thanks
+
+The dataset was carefully marked by the students of the research group of Professor Yang Shuyuan from the Key Laboratory of Intelligent Perception and Image Understanding, Ministry of Education
 of the College of artificial intelligence, Xidian University.
