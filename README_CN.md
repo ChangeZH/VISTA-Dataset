@@ -1,5 +1,9 @@
 # ***V***isual and ***I***nfrared fu***S***ion quali***T***y ***A***ssessment (VISTA) Dataset
 
+[[英文]](README.md)
+
+[[中文]](README_CN.md)
+
 ## DEMO
 
 The following image is a demo of VISTA dataset. The detailed dataset will be released in the future.
