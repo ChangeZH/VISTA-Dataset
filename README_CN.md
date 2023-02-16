@@ -55,10 +55,6 @@ VISTA数据集由西安电子科技大学人工智能学院智能感知与图像
 
 </div>
 
-*! 以下排名不分先后 !*
-
-📍 常志豪 @ [[ChangeZH]](https://github.com/ChangeZH) | 📍 高全伟 @ [[HomePage]]() | 📍 裴洪泽 @ [[HomePage]]() | 📍 任淑榕 @ [[HomePage]]() | 📍 童仕林 @ [[HomePage]]() | 📍 武强 @ [[HomePage]]() | 📍 肖程洪 @ [[HomePage]]() | 📍 薛淇 @ [[HomePage]]() | 📍 尹振龙 @ [[HomePage]]() | 📍 詹梦瑶 @ [[HomePage]]() | 📍 张浩然 @ [[HomePage]]() | ...
-
 ## 📞 反馈
 
 </div>
