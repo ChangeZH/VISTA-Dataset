@@ -51,9 +51,6 @@ of the College of artificial intelligence, Xidian University.
 
 </div>
 
-*!The following ranks are in no particular order!*
-
-📍 Zhihao Chang @ [[ChangeZH]](https://github.com/ChangeZH) | 📍 Quanwei Gao @ [[HomePage]]() | 📍 Hongze Pei @ [[HomePage]]() | 📍 Shurong Ren @ [[HomePage]]() | 📍 Shilin Tong @ [[HomePage]]() | 📍 Qiang Wu @ [[HomePage]]() | 📍 Chenghong Xiao @ [[HomePage]]() | 📍 Qi Xue @ [[HomePage]]() | 📍 Zhenlong Yin @ [[HomePage]]() | 📍 Mengyao Zhan @ [[HomePage]]() | 📍 Haoran Zhang @ [[HomePage]]() | ...
 
 ## 📞 Feedback
 
