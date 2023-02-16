@@ -47,7 +47,7 @@ of the College of artificial intelligence, Xidian University.
 <div align="center">
 
 
-[[Professor Homepage]](https://www.xidian.edu.cn/info/1020/3100.htm) 👩‍🏫 || 🏫 [[Lab Home]](https://ipiu.xidian.edu.cn/)
+[[Professor Homepage]](https://faculty.xidian.edu.cn/shuyuanyang/zh_CN/index/329387/list/index.htm) 👩‍🏫 || 🏫 [[Lab Home]](https://ipiu.xidian.edu.cn/)
 
 </div>
 
