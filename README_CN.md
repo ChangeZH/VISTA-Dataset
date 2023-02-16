@@ -52,7 +52,7 @@ VISTA数据集由西安电子科技大学人工智能学院智能感知与图像
 <div align="center">
 
 
-[[教授主页]](https://www.xidian.edu.cn/info/1020/3100.htm) 👩‍🏫 || 🏫 [[实验室主页]](https://ipiu.xidian.edu.cn/)
+[[教授主页]]([https://www.xidian.edu.cn/info/1020/3100.htm](https://faculty.xidian.edu.cn/shuyuanyang/zh_CN/index/329387/list/index.htm)) 👩‍🏫 || 🏫 [[实验室主页]](https://ipiu.xidian.edu.cn/)
 
 </div>
 
